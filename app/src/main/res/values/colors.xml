@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#67bc55</color>
+    <color name="colorPrimaryDark">#408033</color>
+    <color name="colorAccent">#f7b233</color>
+
+    <color name="colorPrimaryLight">#AED581</color>
+    <color name="colorPrimaryGray">#F1F8E9</color>
+
+    <color name="white">#FFF</color>
+
+    <color name="cardview_shadow_start_color">#37000000</color>
+
+    <color name="itemHighlightColor">#1F000000</color>
+    <color name="defaultColor">#2962FF</color>
+\
+</resources>
